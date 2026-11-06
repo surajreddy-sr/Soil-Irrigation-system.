@@ -13,8 +13,11 @@ Automated soil moisture monitoring with temperature, humidity sensing and ESP826
 
 | Student Name | Registration Number |
 | :--- | :--- |
-| Eswar Suraj Reddy | [Registration Number] |
-| Hrithikesh Gangalapudi | [Registration Number] |
+| Eswar Suraj Reddy | [CB.SC.U4CSE24549] |
+| Uddhav Krishna | [CB.SC.U4CSE24553] |
+| Siddharth Sreekanth | [CB.SC.U4CSE24566] |
+| sai kumar | [CB.SC.U4CSE24563] |
+
 
 ---
 
