@@ -15,7 +15,7 @@ Automated soil moisture monitoring with temperature, humidity sensing and ESP826
 | :--- | :--- |
 | Eswar Suraj Reddy | [CB.SC.U4CSE24549] |
 | Uddhav Krishna | [CB.SC.U4CSE24553] |
-| Siddharth Sreekanth | [CB.SC.U4CSE24566] |
+| Siddharth Sreekanth  | [CB.SC.U4CSE24566] |
 | Sai Kumar | [CB.SC.U4CSE24563] |
 
 ---
