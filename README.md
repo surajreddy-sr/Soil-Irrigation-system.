@@ -16,14 +16,14 @@ Automated soil moisture monitoring with temperature, humidity sensing and ESP826
 | Eswar Suraj Reddy | [CB.SC.U4CSE24549] |
 | Uddhav Krishna | [CB.SC.U4CSE24553] |
 | Siddharth Sreekanth | [CB.SC.U4CSE24566] |
-| sai kumar | [CB.SC.U4CSE24563] |
-
+| Sai Kumar | [CB.SC.U4CSE24563] |
 
 ---
 
-<p align="center">
-  <img src="docs/images/circuit_diagram.png" alt="STM32 Smart Soil Irrigation System Architecture" width="850"/>
-</p>
+## Video Demo Link:
+https://drive.google.com/file/d/1xj9iB1caGT8WEM6Aj6zGXLpLBuKXrS8L/view?usp=sharing
+
+---
 
 ## 1. Problem Statement
 
